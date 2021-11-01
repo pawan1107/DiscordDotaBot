@@ -1,0 +1,14 @@
+2021-04-11 21:13:06.242305 : Command raised an exception: MatchIdNotFound: Match ID 5asdasdsad not found
+2021-04-11 21:36:09.378114 : Command raised an exception: AttributeError: 'dict' object has no attribute 'match_id'
+2021-04-11 21:37:09.687418 : Command raised an exception: AttributeError: 'dict' object has no attribute 'match_id'
+2021-04-11 21:38:11.088931 : Command raised an exception: AttributeError: 'dict' object has no attribute 'match_id'
+2021-04-11 21:39:32.719034 : Command raised an exception: AttributeError: 'dict' object has no attribute 'match_id'
+2021-04-11 21:43:29.372000 : Command raised an exception: AttributeError: 'dict' object has no attribute 'match_id'
+2021-04-11 21:44:12.786374 : Command raised an exception: AttributeError: 'dict' object has no attribute 'match_id'
+2021-04-11 21:49:50.627216 : <traceback object at 0x7f7c219b2240>
+
+
+2021-04-11 21:52:21.121478 : 902 | <traceback object at 0x7f4223b808c0>
+
+2021-04-11 21:54:18.512006 : invoke | /home/pawan/Projects/discordbot_project/EnvDiscordBot/lib/python3.8/site-packages/discord/ext/commands/bot.py | 902 | Command raised an exception: AttributeError: 'dict' object has no attribute 'match_id'NoneType: None
+

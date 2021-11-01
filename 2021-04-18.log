@@ -1,0 +1,6 @@
+
+
+
+2021-04-18 19:21:00.971782 : invoke | /home/pawan/Projects/discordbot_project/EnvDiscordBot/lib/python3.8/site-packages/discord/ext/commands/bot.py | 902 | Command raised an exception: AttributeError: 'dict' object has no attribute 'match_id'
+
+2021-04-18 19:23:09.188168 : invoke | /home/pawan/Projects/discordbot_project/EnvDiscordBot/lib/python3.8/site-packages/discord/ext/commands/bot.py | 902 | Command raised an exception: AttributeError: 'dict' object has no attribute 'match_id'
