@@ -1,7 +1,13 @@
 # Dota Discord Bot
 
 This is a fun bot which can fetch and show some dota details in your discord channel.
-List of Command
+
+
+**Dota Command** <br/>
+This Bot is created using Python and MongoDB which uses OpenDota API to fetch dota details.
+
+
+## List of Command
 
 **Dota Command** <br/>
 !add_Steam_Id @member steamId <br/>
