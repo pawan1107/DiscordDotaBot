@@ -4,21 +4,21 @@ This is a fun bot which can fetch and show some dota details in your discord cha
 List of Command
 
 **Dota Command**
-!add_Steam_Id @member steamId
-!heroes
-!player @member/steamId
-!match matchId
-!last_match_details @member/steamId
-!recent_match @member
+!add_Steam_Id @member steamId <br/>
+!heroes <br/>
+!player @member/steamId <br/>
+!match matchId <br/>
+!last_match_details @member/steamId <br/>
+!recent_match @member <br/>
 
 **Discord Command**
-!hello
-!mute @member
-!unmute @member
-!deafean @member
-!undeafean @member
-!kick_from_channel @member
-!add_in_channel @member channelName
+!hello <br/>
+!mute @member <br/>
+!unmute @member <br/>
+!deafean @member <br/>
+!undeafean @member <br/>
+!kick_from_channel @member <br/>
+!add_in_channel @member channelName <br/>
 
 ## Add bot in your server
 
