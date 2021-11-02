@@ -24,3 +24,8 @@ List of Command
 
 To add a bot in your server 
 click on [HERE](https://discord.com/api/oauth2/authorize?client_id=820657659342356530&permissions=156796177472&scope=bot) and add it to one of your server. 
+
+
+### Example of match fetch
+
+![Demo Match Fetch](https://i.ibb.co/GdrgXkp/Capture.jpg)
